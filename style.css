@@ -1,0 +1,84 @@
+/* p {
+  background-color: yellow;
+  color: red;
+}
+
+class selector 
+
+.line1 {
+  background-color: black;
+}
+
+.line2 {
+  background-color: blueviolet;
+}
+
+id selector 
+#line3 {
+  background-color: lawngreen;
+}
+
+attribute selector 
+input[type="text"] {
+  padding: 10px;
+  background-color: red;
+}
+
+psudo selector 
+
+button:hover {
+  background-color: yellow;
+  padding: 10px;
+  border: 2px solid red;
+}
+
+selector list 
+h2,
+h3,
+h4 {
+  background-color: darkcyan;
+} */
+
+/* CSS Styling  */
+/* .styling {
+  color: brown;
+  background-color: black;
+  padding: 100px 20px 30px 40px;
+  /* top, right, bottom , left ( padding  ai vbae kaj kore ) */
+/* padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  padding-left: 100px; */
+/* border: 5px solid yellow; */
+/* border-width: 2px;
+  border-style: dashed;
+  border-color: gree;
+} */
+
+/* text styling  */
+/* .text1 {
+  text-decoration: dashed;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 70px;
+  font-style: italic;
+  line-height: 100px;
+} */
+
+/* CSS FLEXBOX */
+
+/* .box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 2px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  gap: 100px;
+} */
